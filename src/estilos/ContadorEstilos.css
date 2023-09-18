@@ -1,0 +1,26 @@
+/*.cantidad{
+  width: 170px;
+  height: 68px;
+  margin: 100px auto;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3b3b4f;
+  color: #f5f6f7;
+  border: 1px solid white;
+}
+
+#incrementar,
+#decrementar {
+  width: 20%;
+  margin: 1em auto;
+  height: 2em;
+  font-size: 1.1rem;
+  background-color: #3b3b4f;
+  border-color: white;
+  color: white;
+  display: block;
+  align-items: center;
+}
+*/
